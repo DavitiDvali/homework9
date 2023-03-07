@@ -1,3 +1,5 @@
+
+
 * {
     margin: 0;
     padding: 0;
@@ -36,7 +38,7 @@ p {
 
 .container3 {
     margin-right: 30px;
-    float: right;
+    margin-left: auto;
     width: 30%;
     height: 50%;
 }
@@ -63,4 +65,10 @@ p {
 
 .lastp {
     margin-top: 30px;
+}
+
+.line-1 hr {
+    border: 0;
+    border-bottom: 1px solid #DFDFDF;
+    margin: 50px 30px 50px 30px;
 }
